@@ -6,3 +6,6 @@ This is work done by me i want to push it
 Again someone push changes.
 Im changing this again.
 want to push it to master.
+Again second person pushed changes.
+take pull of changes done byu second person.
+
